@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: api-async-env-c6gd
+    environment: app-async-env-c6gd
 environment-defaults:
-  api-async-env-c6gd:
+  app-async-env-c6gd:
     branch: null
     repository: null
 global:
@@ -17,7 +17,3 @@ global:
   profile: eb-cli-async
   sc: null
   workspace_type: Application
-  Footer
-  © 2022 GitHub, Inc.
-  Footer navigation
-  Terms
